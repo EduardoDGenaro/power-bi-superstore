@@ -6,7 +6,7 @@
 
 ## 🖼️ Preview
 
-![Dashboard Preview](preview.png)
+![Dashboard Preview](Preview.png)
 
 ---
 
@@ -72,5 +72,5 @@ Public dataset **Sample - Superstore** available on [Kaggle](https://www.kaggle.
 ## 👤 Author
 
 Made by **Eduardo** · Systems Analysis and Development Student
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-davi-genaro-185599406)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-davi-genaro-185599406)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/EduardoDGenaro)

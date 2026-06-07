@@ -6,7 +6,7 @@
 
 ## 🖼️ Preview
 
-![Dashboard Preview](Preview.png)
+![Dashboard Preview](Preview.jpg)
 
 ---
 
